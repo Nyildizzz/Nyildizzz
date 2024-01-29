@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js,Next.js**
 
-- 👨‍💻 All of my projects are available at [My Github Profile](My Github Profile)
+- 👨‍💻 All of my projects are available at My Github Profile
 
 - 💬 Ask me about **React.js**
 
